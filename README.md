@@ -7,7 +7,7 @@ Sign up for IBM Cloud
 https://cloud.ibm.com/registration/free
 
 
-بعد  ذلك    كما  في  الثور النرفقع  نقوم   بالدخول  علي  watson  assisent
+بعد  ذلك    كما  في  الصور المرفقه  نقوم   بالدخول  علي  watson  assisent
 
 ثم   نقوم  بعمل  الشات  روبوت المحادثه 
  ونقوم بتجربته بعد الإنتهاء
